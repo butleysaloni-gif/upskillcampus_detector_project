@@ -1,0 +1,1 @@
+# upskillcampus_detector_project
